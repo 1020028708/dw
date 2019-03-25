@@ -5,6 +5,18 @@ function (id){
 	var pageX = 0;
 	
 	var pageY = 0;
+	var pageX = 0;
+	
+	var pageY = 0;
+
+var pageX = 0;
+	
+	var pageY = 0;
+
+var pageX = 0;
+	
+	var pageY = 0;
+
 
 	obj.onmousedown=function(){
 	
